@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganbatth&label=Profile%20views&color=0e75b6&style=flat" alt="gaganbatth" /> </p>
 
-- 🔭 I’m currently working on [DoubtDesk](https://cse-2025s.github.io/DoubtDesk/)
 
 - 📫 How to reach me **gagandeepbatth145@gmail.com**
 
-- ⚡ Fun fact **i am a tutor as well😊**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
