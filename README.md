@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganbatth&label=Profile%20views&color=0e75b6&style=flat" alt="gaganbatth" /> </p>
 
 
-- 📫 How to reach me **gagandeepbatth145@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/gagandeep-batth**
 
 
 <h3 align="left">Connect with me:</h3>
